@@ -7,11 +7,18 @@ Author URI: http://deliciousthemes.com/
 Template: patti
 Version: 1.4
 */
-
 /* =Imports styles from the parent theme
 -------------------------------------------------------------- */
 /*@import url('../patti/style.css');*/
-
-
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+
+/* START ABOUT SECTION STYLES*/
+
+.about-park{
+	border: solid red 1px;
+}
+
+csvasdcasdc
+
+/* END ABOUT SECTION STYLES*/
