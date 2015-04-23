@@ -19,6 +19,15 @@ Version: 1.4
 	border: solid red 1px;
 }
 
-csvasdcasdc
-
 /* END ABOUT SECTION STYLES*/
+
+/* START HYPEPOTHAMUS STYLES*/
+
+img.hype-logo{
+	max-width: 100%;
+	width: 300px;
+	margin: 0 auto;
+	display: block;
+}
+
+/* END HYPEPOTHAMUS STYLES*/
